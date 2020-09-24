@@ -1,4 +1,4 @@
-# FRONTEND-BASIC
+1# FRONTEND-BASIC
 
 ## BASIS HTML-TAAK-02
 
@@ -18,7 +18,7 @@ Een webpagina heeft vaak het volgende standaard patroon. Deze HTML-tags zijn **a
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
+    <title></title> 
   </head>
   <body></body>
 </html>
